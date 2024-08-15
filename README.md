@@ -80,3 +80,13 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"></a>
   </div>
 </p>
+<div align="center">
+
+<img align="center" alt="Coding" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif">  <br>
+
+![Contributors](https://img.shields.io/github/contributors/athsarab/athsarab?&labelColor=black&color=4cd137&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/athsarab/athsarab?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/athsarab/athsarab?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/athsarab/athsarab?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+</div>
+  
