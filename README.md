@@ -34,13 +34,14 @@
   <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on **web development projects**
-- 🌱 I’m currently learning **Java, JavaScript**
-- 💬 Ask me about **C, C++**
-- 📫 How to reach me **athsarab@gmail.com**
-- 💼 &nbsp; Android developer and front-end web developer.
-- ⚡ Quote: No code, no life
-- 👨‍💻 All of my projects are available [here](https://github.com/athsarab)
+- 🔭 I’m currently working on **innovative web development projects** that explore the latest in front-end and back-end technologies.
+- 🌱 I’m continuously enhancing my skills in **Java, JavaScript, and modern web frameworks** to build robust and scalable applications.
+- 💬 Feel free to ask me about **C, C++, and algorithm design**—I love discussing programming challenges and best practices.
+- 📫 You can reach me at **athsarab@gmail.com** .
+- 💼 I specialize in both **Android development** and **web development**, delivering engaging user experiences across multiple platforms.
+- ⚡ Embracing a passion for continuous learning and creative problem-solving.
+- 👨‍💻 Explore all of my projects on [GitHub](https://github.com/athsarab) and connect with me professionally on [LinkedIn](https://www.linkedin.com/in/yourlinkedinusername).
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
