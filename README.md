@@ -104,7 +104,6 @@
       <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://fb.com/athsarab">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"></a>
-  <img align="right" height="120px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
   </div>
 
