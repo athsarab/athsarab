@@ -1,17 +1,27 @@
  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Athsara Bimalka</h1>
-<p>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="170" height="170" frameBorder="0" align='right' class="giphy-embed" allowFullScreen></img></p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Athsara Bimalka</h1>
+
 <p align="center">
-  <a href="https://github.com/athsarab/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+athsara;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being.;"></a>
+  <a href="https://github.com/athsarab/readme-typing-svg">
+    <picture align="center">
+      <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px">
+    </picture>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Athsara;Welcome+to+My+GitHub+Profile!;A+Passionate+Full-stack+Developer;AI+Enthusiast+and+Tech+Explorer;Driven+by+Innovation+and+Continuous+Learning;Focused+on+Building+Scalable+Solutions;">
+   <picture align="center">
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="170" height="170" frameBorder="0" align='right' class="giphy-embed" allowFullScreen>
+</picture>
+  </a>
 </p>
 
-<h3 align="center"> I'm an undergraduate student at SLIIT </h3>
+
+<h3 align="center"> 🎓 Undergraduate Student at SLIIT | Software Engineering Enthusiast</h3>
+<h3 align="center">💡 Innovator | 👨‍💻 Developer | 🚀 Problem Solver</h3>
+
 
 <br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athsarab&label=Profile%20views&color=0e75b6&style=flat" alt="athsarab" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=athsarab&label=Profile%20views&&color=red&style=flat" alt="athsarab" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a target="_blank" align="center">
@@ -80,7 +90,10 @@
       <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://fb.com/athsarab">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"></a>
+  <img align="right" height="120px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
   </div>
+
 </p>
 <div align="center">
 
