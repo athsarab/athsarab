@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/athsarab/readme-typing-svg">
-    <picture align="center">
+    <picture align="left">
       <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px">
     </picture>
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Athsara;Welcome+to+My+GitHub+Profile!;A+Passionate+Full-stack+Developer;AI+Enthusiast+and+Tech+Explorer;Driven+by+Innovation+and+Continuous+Learning;Focused+on+Building+Scalable+Solutions;">
-   <picture align="center">
+   <picture align="right">
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="170" height="170" frameBorder="0" align='right' class="giphy-embed" allowFullScreen>
 </picture>
   </a>
