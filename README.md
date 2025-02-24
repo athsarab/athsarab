@@ -1,3 +1,5 @@
+ ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Athsara Bimalka</h1>
 <p>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="170" height="170" frameBorder="0" align='right' class="giphy-embed" allowFullScreen></img></p>
