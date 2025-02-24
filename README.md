@@ -40,7 +40,7 @@
 - 📫 You can reach me at **athsarab@gmail.com** .
 - 💼 I specialize in both **Android development** and **web development**, delivering engaging user experiences across multiple platforms.
 - ⚡ Embracing a passion for continuous learning and creative problem-solving.
-- 👨‍💻 Explore all of my projects on [GitHub](https://github.com/athsarab) and connect with me professionally on [LinkedIn](https://www.linkedin.com/in/yourlinkedinusername).
+- 👨‍💻 Explore all of my projects on [GitHub](https://github.com/athsarab) and connect with me professionally on [LinkedIn](https://www.linkedin.com/in/athsara-bimalka).
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
