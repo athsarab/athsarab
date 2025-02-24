@@ -45,25 +45,33 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- stats & Trophy (start) -->
-<p align="center">
   <!--- stats (start) -->
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=athsarab&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=athsarab&theme=dark&hide_border=false" /> 
-</td>
+<tr>
+  <td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=athsarab&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
+    <br><br>
+    <img src="https://streak-stats.demolab.com?user=athsarab&theme=radical&hide_border=false" alt="GitHub Streak" /> 
+  </td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athsarab&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athsarab&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+    <br><br>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=athsarab&theme=radical&hide_border=false" alt="GitHub Activity Graph" />
   </td>
 </tr>
 </table>
+
+---
+
+<h3 align="center">🏆 GitHub Achievements</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=athsarab&theme=radical&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
 <!--- stats (end) -->
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
