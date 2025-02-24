@@ -35,10 +35,10 @@
 </a>
 
 - 🔭 I’m currently working on **innovative web development projects** that explore the latest in front-end and back-end technologies.
-- 🌱 I’m continuously enhancing my skills in **Java, JavaScript, and modern web frameworks** to build robust and scalable applications.
-- 💬 Feel free to ask me about **C, C++, and algorithm design**—I love discussing programming challenges and best practices.
+- 🌱 I’m continuously enhancing my skills in **Java, JavaScript, and modern web frameworks** .
+- 💬 Feel free to ask me about **C, C++, and algorithm design**
 - 📫 You can reach me at **athsarab@gmail.com** .
-- 💼 I specialize in both **Android development** and **web development**, delivering engaging user experiences across multiple platforms.
+- 💼 I specialize in both **Android development** and **web development**, .
 - ⚡ Embracing a passion for continuous learning and creative problem-solving.
 - 👨‍💻 Explore all of my projects on [GitHub](https://github.com/athsarab) and connect with me professionally on [LinkedIn](https://www.linkedin.com/in/athsara-bimalka).
 
