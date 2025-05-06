@@ -63,7 +63,6 @@
   </td>
 </tr>
 </table>
-  
 ---
 
 <h3 align="center">🏆 GitHub Achievements</h3>
