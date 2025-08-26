@@ -59,7 +59,10 @@
   <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athsarab&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
     <br><br>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=athsarab&theme=radical&hide_border=false" alt="GitHub Activity Graph" />
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=athsarab&theme=radical&hide_border=true"
+        alt="Activity Graph"
+      />
   </td>
 </tr>
 </table>
