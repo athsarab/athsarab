@@ -91,7 +91,7 @@
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,c++,mongodb,vite,css,discord,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,react,php,ts,vscode&perline=14" />
   </a>
 </p>
-
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contact me 🤝</h3>
