@@ -48,7 +48,7 @@
 
 <!--- stats & Trophy (start) -->
   <!--- stats (start) -->
-<table align="center">
+<table align="center"> 
 <tr>
   <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=athsarab&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
