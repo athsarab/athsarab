@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="170" height="170" frameBorder="0" align='right' class="giphy-embed" allowFullScreen>
 </picture>
   </a>
-</p> 
+</p>  
 
  
 <h3 align="center"> 🎓 Undergraduate Student at SLIIT | Software Engineering Enthusiast</h3>
