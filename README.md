@@ -28,7 +28,19 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/athsarab?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/athsarab?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/athsarab"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <br/>
+  <!--START_SECTION:waka-->
+  <!-- Code Time (static badge) -->
+  &nbsp;
+  <img src="https://img.shields.io/badge/Code%20Time-1%2C128%20hrs%201%20min-blue" alt="Code Time" />
+
+ 
+
+  <!-- Lines of code (static label; apostrophe encoded) -->
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue" alt="Lines of code" />
+ 
 </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a target="_blank" align="center">
