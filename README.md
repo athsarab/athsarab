@@ -1,5 +1,11 @@
 <div align="center">
-  <img alt="Lonely Developer" src="/github.gif" width="750px">
+  <img 
+    alt="Lonely Developer" 
+    src="/github.gif" 
+    width="100%" 
+    height="400px"
+    style="object-fit: cover;"
+  >
 </div>
  <!--![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)-->
  
